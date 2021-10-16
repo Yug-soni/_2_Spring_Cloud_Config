@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/_2_Spring_Cloud_Config.iml" filepath="$PROJECT_DIR$/.idea/_2_Spring_Cloud_Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Limits_Service/limits-service.iml" filepath="$PROJECT_DIR$/Limits_Service/limits-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_Cloud_Config_Server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/Spring_Cloud_Config_Server/spring-cloud-config-server.iml" />
+    </modules>
+  </component>
+</project>
